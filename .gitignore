@@ -1,0 +1,13 @@
+out/**
+
+*.o
+*.obj
+*.bin
+*.exe
+
+.vs/
+.vscode/
+.idea/
+
+*.pch
+*.gch
